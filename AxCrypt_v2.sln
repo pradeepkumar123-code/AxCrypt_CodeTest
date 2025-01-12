@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AxCrypt_v2", "AxCrypt_v2.csproj", "{5F173A44-3263-45A9-BBC9-0ED52E742250}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F173A44-3263-45A9-BBC9-0ED52E742250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F173A44-3263-45A9-BBC9-0ED52E742250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F173A44-3263-45A9-BBC9-0ED52E742250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F173A44-3263-45A9-BBC9-0ED52E742250}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6571EE8-3186-4EA8-A0EE-D698CCF90EAB}
+	EndGlobalSection
+EndGlobal
